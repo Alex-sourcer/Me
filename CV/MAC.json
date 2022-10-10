@@ -1,0 +1,241 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alejandro",
+      "surnames": "Mariana Muñoz",
+      "title": "Head of Talent Acquisition",
+      "description": "My great passion is working with people, as I believe that each one of us is unique and we all have something to contribute. My vision of Recruitment is not so much to find a job for someone or simply fill a vacancy, but to improve the life of that person and the company. My other great passion, sport, has given me a mentality that makes me be looking for new challenges in which to improve myself.\nAccustomed to work individually and in a team, especially interested in the area of Digital Transformation, since will be essential in the future organizations. My work methodology is based in Inbound Recruiting; connecting not only on a rational level, but also on an emotional level, and putting the focus on the candidate's experience.",
+      "avatar": {
+        "alt": "Foto.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/1b2021ce-21cf-423d-8271-9ab36ebed2f4_foto.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Alex-sourcer/Alex-sourcer"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/AMM__92"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alejandromarianamunoz/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favourite artist is Martin Garrix",
+        "fact": "My favourite songs are:\n- High on life\n- Follow\n- Aurora"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Growara",
+          "URL": "https://growara.com/"
+        },
+        "roles": [
+          {
+            "name": "Head of Talent Acquisition",
+            "startDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "I manage a team of 3 people, performing 1 to 1 regularly and managing team priorities to achieve objectives. I also work developing selection tasks, taking care of the candidate's experience during the whole process, while doing business development.\n\n■ Successfully managed positions:\n-Fullstack Web Developer (iteNlearning)\n- Backend Developer (Tuvalum)\n- Citibox Project (15 positions in 6 months): 2 Android Developers, 1 Project Manager, 1 Frontend Developer, 1 Backend Developer.\n- Doofinder Project (10 positions in 4 months); Backend and Fullstack Developers.\n- Project Manager in Voicemod project (13 positions in 6 months): Fullstack and Engineering Managers.\n- Mobile Developer (Mercadona Tech)\n- DevOps (Koa Health)\n- Product Manager (Prestalo)\nI have also managed SEO, CMO, System Administrator, Frontend Developer, Project Manager, Data Scientist, C#, iOS, Android, and SRE processes.\n\nIn this time I have managed to optimize the Candidate Journey of the company by improving both the needs assessment and the drafting of offers, making it more attractive to technical profilesthanks to the Inbound Recruiting methodology. In addition, I have provided cross-learning sessions on sourcing for the team."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Key Talent",
+          "URL": "https://thekeytalent.com/"
+        },
+        "roles": [
+          {
+            "name": "HR Consultant - IT Recruiter",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "I participated in different projects of direct search and selection of professionals in different\nsectors, managing the whole cycle of the process. I also participated in job fairs, did\ncommercial work for business development and supported the evaluation, training and\ndevelopment areas of the company.\n\n■ Successfully managed positions:\n- Functional analyst (Jira, Confluence, SQL...)\n- Back-end Architect (Java, Spring, REST/SOAP, Oracle...)\n- Full Stack Lead Developer (PHP, Drupal, Wordpress...)\n- Internship: HR, Engineering, Marketing"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Trello",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ISOIN",
+          "URL": "https://www.isoin.es/"
+        },
+        "roles": [
+          {
+            "name": "IT Recruiter",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "My main responsibility was to find the talent that would best fit not only the required\ncompetencies but also the culture and values of each company. Responsible for all phases\nof the selection process. I successfully managed an RPA Architect position and a Java\nDeveloper position."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Trello",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Implant Project",
+          "description": "I was the main coordinator of an Implant project for a client company in the videogames sector, where I was in charge of coordinating the communication of 20 people to incorporate a total of 13 people in 5 months (From February to June). \n\nI led the meetings prior to the agreement to set the lines of action and good practices, I managed communications and incident resolution to unblock bottlenecks between the people involved, and I monitored all the incorporations."
+        },
+        "type": "achievement",
+        "publishingDate": "2022-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Implant"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ThePowerMBA & Marketing Digital",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "ThePower Business School"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Sngular OKR Champion",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "UXER School"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Inbound Recruiting",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Inbound Recruiting & Employer Branding - Toni Gimeno"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Selección Perfiles IT",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "SIT"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Management and Leadership in Human Resources (Oct. 2019 – Sept 2020)",
+        "startDate": "2019-10-01",
+        "finishDate": "2020-09-01",
+        "institution": {
+          "name": "CES Cardenal Cisneros"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in General Health Psychology ",
+        "startDate": "2017-02-01",
+        "finishDate": "2018-06-01",
+        "institution": {
+          "name": "UDIMA"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Psychology",
+        "startDate": "2011-09-01",
+        "finishDate": "2015-06-01",
+        "institution": {
+          "name": "CES Cardenal Cisneros"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alejandromarianamunoz/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Technical Recruitment"
+      ]
+    }
+  }
+}
