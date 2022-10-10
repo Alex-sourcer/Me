@@ -232,12 +232,6 @@
       ]
     },
     "preferences": {
-      "preferredCompetences": [
-        {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Technical Recruitment"
       ]
