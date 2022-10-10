@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Alejandro",
       "surnames": "Mariana Muñoz",
-      "title": "Head of Talent Acquisition",
+      "title": "Talent Acquisition Specialist (Tech)",
       "description": "My great passion is working with people, as I believe that each one of us is unique and we all have something to contribute. My vision of Recruitment is not so much to find a job for someone or simply fill a vacancy, but to improve the life of that person and the company. My other great passion, sport, has given me a mentality that makes me be looking for new challenges in which to improve myself.\nAccustomed to work individually and in a team, especially interested in the area of Digital Transformation, since will be essential in the future organizations. My work methodology is based in Inbound Recruiting; connecting not only on a rational level, but also on an emotional level, and putting the focus on the candidate's experience.",
       "avatar": {
         "alt": "Foto.jpeg",
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
