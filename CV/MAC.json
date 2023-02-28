@@ -143,10 +143,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -156,7 +166,8 @@
         "name": "ThePowerMBA & Marketing Digital",
         "startDate": "2022-09-01",
         "institution": {
-          "name": "ThePower Business School"
+          "name": "ThePower Business School",
+          "description": ""
         }
       },
       {
@@ -165,7 +176,8 @@
         "name": "Sngular OKR Champion",
         "startDate": "2021-03-01",
         "institution": {
-          "name": "UXER School"
+          "name": "UXER School",
+          "description": ""
         }
       },
       {
@@ -174,7 +186,8 @@
         "name": "Inbound Recruiting",
         "startDate": "2020-11-01",
         "institution": {
-          "name": "Inbound Recruiting & Employer Branding - Toni Gimeno"
+          "name": "Inbound Recruiting & Employer Branding - Toni Gimeno",
+          "description": ""
         }
       },
       {
@@ -183,7 +196,8 @@
         "name": "Selección Perfiles IT",
         "startDate": "2020-09-01",
         "institution": {
-          "name": "SIT"
+          "name": "SIT",
+          "description": ""
         }
       },
       {
@@ -193,7 +207,8 @@
         "startDate": "2019-10-01",
         "finishDate": "2020-09-01",
         "institution": {
-          "name": "CES Cardenal Cisneros"
+          "name": "CES Cardenal Cisneros",
+          "description": ""
         }
       },
       {
@@ -203,7 +218,8 @@
         "startDate": "2017-02-01",
         "finishDate": "2018-06-01",
         "institution": {
-          "name": "UDIMA"
+          "name": "UDIMA",
+          "description": ""
         }
       },
       {
@@ -213,7 +229,8 @@
         "startDate": "2011-09-01",
         "finishDate": "2015-06-01",
         "institution": {
-          "name": "CES Cardenal Cisneros"
+          "name": "CES Cardenal Cisneros",
+          "description": ""
         }
       }
     ]
@@ -231,6 +248,7 @@
       "preferredRoles": [
         "Technical Recruitment"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
