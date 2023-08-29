@@ -259,11 +259,21 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Airtable",
+          "type": "technology"
+        },
+        {
           "name": "Jira",
           "type": "technology"
         },
         {
           "name": "Trello",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Microsoft",
           "type": "technology"
         }
       ],
