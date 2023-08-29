@@ -259,6 +259,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
           "name": "Trello",
           "type": "technology"
         }
