@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,32 +9,18 @@
       "name": "Alejandro",
       "surnames": "Mariana Muñoz",
       "title": "Talent Acquisition Specialist (Tech)",
-      "description": "",
+      "description": "My great passion is working with people, as I believe that each one of us is unique and we all have something to contribute. My vision of Recruitment is not so much to find a job for someone or simply fill a vacancy, but to improve the life of that person and the company. My other great passion, sport, has given me a mentality that makes me be looking for new challenges in which to improve myself.\nAccustomed to work individually and in a team, especially interested in the area of Digital Transformation, since will be essential in the future organizations. My work methodology is based in Inbound Recruiting; connecting not only on a rational level, but also on an emotional level, and putting the focus on the candidate's experience.",
       "avatar": {
-        "alt": "Foto.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/1b2021ce-21cf-423d-8271-9ab36ebed2f4_foto.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/1b2021ce-21cf-423d-8271-9ab36ebed2f4_foto.jpeg",
+        "alt": "Foto.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/Alex-sourcer/Alex-sourcer"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/AMM__92"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alejandromarianamunoz/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I am passionate about historical and science fiction literature.",
@@ -128,14 +114,14 @@
         },
         "type": "achievement",
         "publishingDate": "2022-02-01",
+        "tags": [
+          "Implant"
+        ],
         "relatedCompetences": [
           {
             "name": "Trello",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Implant"
         ]
       }
     ]
@@ -143,11 +129,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
@@ -163,11 +149,49 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "ThePowerMBA & Marketing Digital",
-        "startDate": "2022-09-01",
+        "name": "Inbound Recruiting",
+        "startDate": "2020-11-01",
         "institution": {
-          "name": "ThePower Business School",
-          "description": ""
+          "name": "Inbound Recruiting & Employer Branding - Toni Gimeno"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Management and Leadership in Human Resources (Oct. 2019 – Sept 2020)",
+        "startDate": "2019-10-01",
+        "institution": {
+          "name": "CES Cardenal Cisneros"
+        },
+        "finishDate": "2020-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in General Health Psychology ",
+        "startDate": "2017-02-01",
+        "institution": {
+          "name": "UDIMA"
+        },
+        "finishDate": "2018-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Psychology",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "CES Cardenal Cisneros"
+        },
+        "finishDate": "2015-06-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Selección Perfiles IT",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "SIT"
         }
       },
       {
@@ -176,61 +200,36 @@
         "name": "Sngular OKR Champion",
         "startDate": "2021-03-01",
         "institution": {
-          "name": "UXER School",
-          "description": ""
+          "name": "UXER School"
         }
       },
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Inbound Recruiting",
-        "startDate": "2020-11-01",
+        "name": "ThePowerMBA & Marketing Digital",
+        "startDate": "2022-09-01",
         "institution": {
-          "name": "Inbound Recruiting & Employer Branding - Toni Gimeno",
-          "description": ""
+          "name": "ThePower Business School"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to give feedback",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Selección Perfiles IT",
-        "startDate": "2020-09-01",
-        "institution": {
-          "name": "SIT",
-          "description": ""
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master in Management and Leadership in Human Resources (Oct. 2019 – Sept 2020)",
-        "startDate": "2019-10-01",
-        "finishDate": "2020-09-01",
-        "institution": {
-          "name": "CES Cardenal Cisneros",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Master's Degree in General Health Psychology ",
-        "startDate": "2017-02-01",
-        "finishDate": "2018-06-01",
-        "institution": {
-          "name": "UDIMA",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Psychology",
-        "startDate": "2011-09-01",
-        "finishDate": "2015-06-01",
-        "institution": {
-          "name": "CES Cardenal Cisneros",
-          "description": ""
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
         }
       }
     ]
@@ -239,8 +238,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alejandromarianamunoz/"
+          "URL": "https://www.linkedin.com/in/alejandromarianamunoz/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Alex-sourcer/Alex-sourcer",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/AMM__92",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "alexmm930@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "671372021",
+          "countryCode": "+34"
         }
       ]
     },
@@ -249,6 +265,10 @@
         "Technical Recruitment"
       ]
     },
-    "status": "notAvailable"
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "For my ideal job, there should be a good working environment first and foremost. There should be camaraderie, a team mentality and helping each other. On the other hand, there should be room for improvement proposals; I am very restless and if I am committed to a project I always think about how to improve it beyond the tasks they put in my contract. I would also like there to be room for training (I am currently getting my head into the world of programming in a very amateurish way and I would like to continue learning there, among other things). And also that there is a future together, an established plan so that both the company and I grow together.\n\n",
+    "goodPractices": "My best practices focus on accompanying each person who trusts me to take the next step in their journey. Keeping candidates informed of changes in their selection process and ensuring that they find a project that really suits them at all levels are my two priorities when I work with people."
   }
 }
