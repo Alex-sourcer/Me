@@ -257,6 +257,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Trello",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Technical Recruitment"
       ]
