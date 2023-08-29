@@ -8,18 +8,8 @@
     "profile": {
       "name": "Alejandro",
       "surnames": "Mariana Muñoz",
-      "title": "Talent Acquisition Specialist (Tech)",
-      "description": "My great passion is working with people, as I believe that each one of us is unique and we all have something to contribute. My vision of Recruitment is not so much to find a job for someone or simply fill a vacancy, but to improve the life of that person and the company. My other great passion, sport, has given me a mentality that makes me be looking for new challenges in which to improve myself.\nAccustomed to work individually and in a team, especially interested in the area of Digital Transformation, since will be essential in the future organizations. My work methodology is based in Inbound Recruiting; connecting not only on a rational level, but also on an emotional level, and putting the focus on the candidate's experience.",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/1b2021ce-21cf-423d-8271-9ab36ebed2f4_foto.jpeg",
-        "alt": "Foto.jpeg"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
-        "country": "España",
-        "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
-      }
+      "title": "Tech Talent Acquisition Specialist & Employer Branding @Cabify || Conecto el mejor talento técnico con el proyecto que buscan, con un proceso 100% transparente.",
+      "description": "Hola, gracias por pararte a leer mi perfil en tu búsqueda de nuevos retos!\n\nHoy en día los procesos de selección técnicos se hacen mal, de manera opaca.\n\nEsto hace que en muchas ocasiones te encuentres realizando un proceso sin saber todas las condiciones de la posición, lo que dificulta que puedas tomar una decisión tan importante. Con las sensaciones de frustración e incomprensión lógicas que te genera.\n\n👋Soy Alejandro, y llevo gestionando procesos de selección técnicos más de 3 años. Actualmente trabajo en Cabify haciendo que las ciudades sean mejores lugares para vivir mejorando la movilidad de las personas que viven en ellas. \n\n¿CÓMO PUEDO AYUDARTE?\n\n😎 En Cabify seguimos trabajando en mejorar nuestro producto, siempre pensando en la experiencia de usuario. Tenemos grandes retos por delante a nivel de escalabilidad y encontrarás un ambiente donde todas tus propuestas serán escuchadas y podrás seguir creciendo de la mano de profesionales con mucha experiencia.\n\n🧐 Durante todo el proceso de selección seré tu acompañante, siempre manteniéndote informadx en todo momento del estado de tu candidatura.\n\n¿CÓMO PUEDES PONERTE EN CONTACTO CONMIGO?\n\n👨‍💻 Puedes conectar conmigo por LinkedIn.\n\n📧 alejandro.mariana@cabify.com\n\nSi quieres saber lo que opinan otros profesionales que han trabajado conmigo en sus procesos de cambio de trabajo, échale un vistazo a la sección de RECOMENDACIONES de mi perfil ⬇"
     },
     "interestingFacts": [
       {
@@ -32,26 +22,32 @@
     "jobs": [
       {
         "organization": {
-          "name": "Growara",
-          "URL": "https://growara.com/"
+          "name": "Cabify"
+        },
+        "roles": [
+          {
+            "name": "Talent Acquisition Specialist (Tech) & Employer Branding",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Gestiono procesos de selección end-to-end en el área de Tecnología. Mantengo una comunicación regular con los Hiring Managers de cada posición, hago tareas de sourcing para encontrar el mejor talento y busco un encaje tanto a nivel técnico como de fit cultural con los principios de Cabify.\n\n■ Posiciones gestionadas con éxito:\n\n- Backend Software Engineer\n- Engineering Manager\n\nActualmente soy el encargado de la gestión de todos los procesos relacionados con el área de Data (Data Analytics, Data Engineering y Data Scientist).\n\nTambién gestiono tareas relacionadas con mejorar el Employer Branding de la compañía, y he puesto en marcha diferentes iniciativas en esta dirección como posts personalizados y utilizar testimonios internos para contar cómo es la vida en Cabify."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Growara"
         },
         "roles": [
           {
             "name": "Head of Talent Acquisition",
-            "startDate": "2020-09-01",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-10-31",
             "challenges": [
               {
-                "description": "I manage a team of 3 people, performing 1 to 1 regularly and managing team priorities to achieve objectives. I also work developing selection tasks, taking care of the candidate's experience during the whole process, while doing business development.\n\n■ Successfully managed positions:\n-Fullstack Web Developer (iteNlearning)\n- Backend Developer (Tuvalum)\n- Citibox Project (15 positions in 6 months): 2 Android Developers, 1 Project Manager, 1 Frontend Developer, 1 Backend Developer.\n- Doofinder Project (10 positions in 4 months); Backend and Fullstack Developers.\n- Project Manager in Voicemod project (13 positions in 6 months): Fullstack and Engineering Managers.\n- Mobile Developer (Mercadona Tech)\n- DevOps (Koa Health)\n- Product Manager (Prestalo)\nI have also managed SEO, CMO, System Administrator, Frontend Developer, Project Manager, Data Scientist, C#, iOS, Android, and SRE processes.\n\nIn this time I have managed to optimize the Candidate Journey of the company by improving both the needs assessment and the drafting of offers, making it more attractive to technical profilesthanks to the Inbound Recruiting methodology. In addition, I have provided cross-learning sessions on sourcing for the team."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Trello",
-                "type": "technology"
+                "description": "Gestiono un equipo de 3 personas, realizando 1:1 regularmente y gestionando las prioridades del equipo para alcanzar los objetivos. También trabajo desarrollando tareas de selección, cuidando la experiencia del candidato durante todo el proceso, a la vez que hago desarrollo de negocio.\n\n■ Posiciones gestionadas con éxito:\n\nDesarrollador web fullstack (iteNlearning).\nDesarrollador backend (Tuvalum)\nProyecto Citibox (15 puestos en 6 meses): 2 Desarrolladores Android, 1 Project Manager, 1 Desarrollador Frontend, 1 Desarrollador Backend.\nProyecto Doofinder (10 puestos en 4 meses); Desarrolladores Backend y Fullstack.\nProject Manager en proyecto Voicemod (13 puestos en 6 meses): Responsables Fullstack e Ingeniería.\nDesarrollador Móvil (Mercadona Tech)\nDevOps (Koa Health)\nProduct Manager (Prestalo)\n\nTambién he gestionado procesos de SEO, CMO, Administrador de Sistemas, Frontend Developer, Project Manager, Data Scientist, C#, iOS, Android y SRE.\n\nEn este tiempo he conseguido optimizar el Candidate Journey de la compañía mejorando tanto la evaluación de necesidades como la redacción de ofertas, haciéndola más atractiva para perfiles técnico sgracias a la metodología Inbound Recruiting. Además, he impartido sesiones de aprendizaje cruzado sobre sourcing para el equipo."
               }
             ]
           }
@@ -59,23 +55,16 @@
       },
       {
         "organization": {
-          "name": "The Key Talent",
-          "URL": "https://thekeytalent.com/"
+          "name": "Growara"
         },
         "roles": [
           {
-            "name": "HR Consultant - IT Recruiter",
-            "startDate": "2020-01-01",
-            "finishDate": "2020-04-01",
+            "name": "Talent Advocate",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-03-31",
             "challenges": [
               {
-                "description": "I participated in different projects of direct search and selection of professionals in different\nsectors, managing the whole cycle of the process. I also participated in job fairs, did\ncommercial work for business development and supported the evaluation, training and\ndevelopment areas of the company.\n\n■ Successfully managed positions:\n- Functional analyst (Jira, Confluence, SQL...)\n- Back-end Architect (Java, Spring, REST/SOAP, Oracle...)\n- Full Stack Lead Developer (PHP, Drupal, Wordpress...)\n- Internship: HR, Engineering, Marketing"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Trello",
-                "type": "technology"
+                "description": "Somos una agencia de HR enfocada en asesorar y construir proyectos estratégicos para startups, y empresas en proceso de crecimiento.\n\nNuestros procesos de selección se basan en cuidar la experiencia del candidato. Sin ellos nuestro trabajo no sería posible, por lo que valoramos el tiempo que nos dedican y les mantenemos informados en todo momento del estado de su candidatura. ¡Se acabaron las ofertas sin información! Queremos ser transparentes ya que nuestro objetivo no es cubrir una vacante, sino construir carreras, cultivar desarrollo en cada persona con la que trabajemos."
               }
             ]
           }
@@ -83,23 +72,50 @@
       },
       {
         "organization": {
-          "name": "ISOIN",
-          "URL": "https://www.isoin.es/"
+          "name": "The Key Talent"
+        },
+        "roles": [
+          {
+            "name": "IT Recruiter",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-04-30",
+            "challenges": [
+              {
+                "description": "◼️ Durante esta experiencia fui el responsable de todas las fases del proceso de selección (criba telefónica, entrevista por competencias, preparación de informe detallado para el cliente y seguimiento de la incorporación). Se tenían en cuenta tanto los requerimientos técnicos como la cultura organizacional de cada empresa externa que solicitaba los servicios de Selección.\n\n◼️ Se realizaba una entrevista cronológica por competencias, aludiendo a experiencias pasadas para comprobar la adecuación del candidato a la posición gestionada. Asimismo se incidía en conocer la personalidad y valores del candidato de forma que coincidiera con la cultura empresarial del cliente. \n\n◼️ Obtuve una experiencia de largo recorrido en un ATS propietario, muy similar a Bizneo HR, ya que era la principal herramienta utilizada para gestionar todos los procesos.\n\n◼️ Desarrollé labores de prospección de nuevos clientes, dedicando una parte de la jornada al contacto con pequeñas empresas ofreciendo los servicios de la compañía. \n\n◼️ Posiciones gestionadas con éxito:\n\n- Analista funcional Junior (Jira, Confluence, SQL...)\n- Arquitecto Back-end Senior (Java, Spring, REST/SOAP, Oracle...)\n- Full Stack Lead Developer (PHP, Drupal, Wordpress...)\n- Ciberseguridad, perfiles Senior (Seguridad Web y Hacking Ético)\n- Analista Junior de riesgos financieros \n- Prcoesos end-to-end de becas (contacto con universidades para publicación de ofertas, criba curricular y presentación de candidatos): RRHH, Ingeniería, Marketing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ISOIN"
         },
         "roles": [
           {
             "name": "IT Recruiter",
             "startDate": "2019-11-01",
-            "finishDate": "2020-01-01",
+            "finishDate": "2020-01-31",
             "challenges": [
               {
-                "description": "My main responsibility was to find the talent that would best fit not only the required\ncompetencies but also the culture and values of each company. Responsible for all phases\nof the selection process. I successfully managed an RPA Architect position and a Java\nDeveloper position."
+                "description": "◼️ Durante estas prácticas conseguí un conocimiento sólido sobre las diferentes tecnologías y roles que existen en el mundo IT. Asimismo obtuve una experiencia intensiva en criba curricular mediante entrevistas telefónicas. \n\n◼️ Posiciones gestionadas con éxito:\n\n- Arquitecto Junior RPA (Blueprism, Automation Anywhere).\n- Desarrollador Java Senior."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DeLuna Centre"
+        },
+        "roles": [
+          {
+            "name": "Psicólogo",
+            "startDate": "2018-10-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
               {
-                "name": "Trello",
-                "type": "technology"
+                "description": "Proporcioné tratamiento psicoterapéutico, tanto invidivual como grupal, en los ámbitos de la Psicooncología y de las adicciones. \n\nEsta experiencia me ha aportado una serie de habilidades que luego he podido aplicar en el área de Selección:\n\n●Comunicación y comprensión del estado emocional del interlocutor en situaciones de estrés. \n●Tolerancia a la frustración.\n●Autocontrol en situaciones de alta complejidad emocional."
               }
             ]
           }
@@ -210,26 +226,6 @@
         "startDate": "2022-09-01",
         "institution": {
           "name": "ThePower Business School"
-        }
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to give feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Attention to detail",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Listening ability",
-          "type": "practice"
         }
       }
     ]
