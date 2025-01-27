@@ -1,20 +1,40 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Alejandro",
       "surnames": "Mariana Muñoz",
       "title": "Tech Talent Acquisition Specialist & Employer Branding @Cabify || Conecto el mejor talento técnico con el proyecto que buscan, con un proceso 100% transparente.",
-      "description": "Hola, gracias por pararte a leer mi perfil en tu búsqueda de nuevos retos!\n\nHoy en día los procesos de selección técnicos se hacen mal, de manera opaca.\n\nEsto hace que en muchas ocasiones te encuentres realizando un proceso sin saber todas las condiciones de la posición, lo que dificulta que puedas tomar una decisión tan importante. Con las sensaciones de frustración e incomprensión lógicas que te genera.\n\n👋Soy Alejandro, y llevo gestionando procesos de selección técnicos más de 3 años. Actualmente trabajo en Cabify haciendo que las ciudades sean mejores lugares para vivir mejorando la movilidad de las personas que viven en ellas. \n\n¿CÓMO PUEDO AYUDARTE?\n\n😎 En Cabify seguimos trabajando en mejorar nuestro producto, siempre pensando en la experiencia de usuario. Tenemos grandes retos por delante a nivel de escalabilidad y encontrarás un ambiente donde todas tus propuestas serán escuchadas y podrás seguir creciendo de la mano de profesionales con mucha experiencia.\n\n🧐 Durante todo el proceso de selección seré tu acompañante, siempre manteniéndote informadx en todo momento del estado de tu candidatura.\n\n¿CÓMO PUEDES PONERTE EN CONTACTO CONMIGO?\n\n👨‍💻 Puedes conectar conmigo por LinkedIn.\n\n📧 alejandro.mariana@cabify.com\n\nSi quieres saber lo que opinan otros profesionales que han trabajado conmigo en sus procesos de cambio de trabajo, échale un vistazo a la sección de RECOMENDACIONES de mi perfil ⬇"
+      "description": "Hola, gracias por pararte a leer mi perfil en tu búsqueda de nuevos retos!\n\nHoy en día los procesos de selección técnicos se hacen mal, de manera opaca.\n\nEsto hace que en muchas ocasiones te encuentres realizando un proceso sin saber todas las condiciones de la posición, lo que dificulta que puedas tomar una decisión tan importante. Con las sensaciones de frustración e incomprensión lógicas que te genera.\n\n👋Soy Alejandro, y llevo gestionando procesos de selección técnicos más de 3 años. Actualmente trabajo en Cabify haciendo que las ciudades sean mejores lugares para vivir mejorando la movilidad de las personas que viven en ellas. \n\n¿CÓMO PUEDO AYUDARTE?\n\n😎 En Cabify seguimos trabajando en mejorar nuestro producto, siempre pensando en la experiencia de usuario. Tenemos grandes retos por delante a nivel de escalabilidad y encontrarás un ambiente donde todas tus propuestas serán escuchadas y podrás seguir creciendo de la mano de profesionales con mucha experiencia.\n\n🧐 Durante todo el proceso de selección seré tu acompañante, siempre manteniéndote informadx en todo momento del estado de tu candidatura.\n\n¿CÓMO PUEDES PONERTE EN CONTACTO CONMIGO?\n\n👨‍💻 Puedes conectar conmigo por LinkedIn.\n\n📧 alejandro.mariana@cabify.com\n\nSi quieres saber lo que opinan otros profesionales que han trabajado conmigo en sus procesos de cambio de trabajo, échale un vistazo a la sección de RECOMENDACIONES de mi perfil ⬇",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
     },
     "interestingFacts": [
       {
         "topic": "I am passionate about historical and science fiction literature.",
         "fact": "My favourite fiction books are:\n- The Foundation trilogy. Isaac Asimov. \n\nMy favourite historical literature books are:\n- The Century Trilogy. Ken Follett."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alejandromarianamunoz/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Alex-sourcer/Alex-sourcer"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/AMM__92"
       }
     ]
   },
@@ -146,10 +166,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
