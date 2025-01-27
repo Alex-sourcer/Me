@@ -178,6 +178,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Google Looker Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jira",
           "type": "technology"
         }
@@ -306,6 +312,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Google Looker Studio",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "For my ideal job, there should be a good working environment first and foremost. There should be camaraderie, a team mentality and helping each other. On the other hand, there should be room for improvement proposals; I am very restless and if I am committed to a project I always think about how to improve it beyond the tasks they put in my contract. I would also like there to be room for training (I am currently getting my head into the world of programming in a very amateurish way and I would like to continue learning there, among other things). And also that there is a future together, an established plan so that both the company and I grow together.\n\n",
     "goodPractices": "My best practices focus on accompanying each person who trusts me to take the next step in their journey. Keeping candidates informed of changes in their selection process and ensuring that they find a project that really suits them at all levels are my two priorities when I work with people."
   }
